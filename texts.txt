@@ -1,0 +1,2 @@
+This is my devops pipeline practice, I am trying to create a pipeline from the initial stage
+Git reset practice
